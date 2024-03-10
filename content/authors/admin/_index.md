@@ -43,22 +43,22 @@ Research Methods
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Social and Political Sciences
+      institution: Universitat Pompeu Fabra
+      year: 2024
+    - course: MA in Organizational Psychology
+      institution: TalTEch University
+      year: 2018
+    - course: BA in Psychology
+      institution: Haigazian University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
         icon: python
