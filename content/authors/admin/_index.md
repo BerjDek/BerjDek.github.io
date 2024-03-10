@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Berj Dekramanjian
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Berj  
+last_name: Dekramanjian
 
 # Status emoji
 status:
@@ -17,21 +15,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Motivation Scientist - PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat Pompeu Fabra
+    url: https://www.upf.edu/web/phd-political-and-social-sciences/phd-students/-/asset_publisher/aVbuYaPbJkaS/content/dekramanjian-berj/maximized
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
+I am a Researcher and PhD candidate in the Department of Political and Social Sciences at Universitat Pompeu Fabra, where I am a member of the Sociodemography Research Group. My academic journey is deeply rooted in the exploration of collective action and the underlying motivations that drive individuals to participate in citizen-led initiatives. Specifically, my research is focused on dissecting the nuances of engagement in public health interventions and ecological conservation efforts. By employing a multidisciplinary approach, I delve into the realms of design principles, goal orientation, and communication framing to understand how these factors influence participation and commitment to collective goals. 
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Research Methods
+  - Quantitative Methods:
+      - Surveys and Questionnaires
+      - Experiments
+      - Cross-Sectional Studies
+      - Statistical Analysis
+  - Qualitative Methods:
+      - Interviews
+      - Text Analysis
+  - Participatory Methods:
+      - Community-Based Participatory Research (CBPR)
+  
 
 # Education to show in About widget
 education:
